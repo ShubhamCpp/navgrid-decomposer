@@ -29,8 +29,8 @@ This contains both algorithms:
 3) Side by side comparison of both algorithms:
 
 <p float="left">
-  <img src="navgrid-decomposer/Images/greedy_comparison.png" width="600" />
-  <img src="navgrid-decomposer/Images/tiled_comparison.png" width="600" />
+  <img src="navgrid-decomposer/Images/greedy_comparison.png" width="550" />
+  <img src="navgrid-decomposer/Images/tiled_comparison.png" width="550" />
 </p>
 
 ## Controls
