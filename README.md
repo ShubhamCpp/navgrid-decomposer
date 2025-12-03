@@ -21,7 +21,7 @@ This contains both algorithms:
 
 ## Demo
 1) Greedy combination algorithm:
-   `Images/greedy_4.png`
+   ![Greedy rect cover (max=4)](Images/greedy_4.png)
 
 ## Controls
 
