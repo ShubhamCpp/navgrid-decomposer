@@ -10,8 +10,8 @@ There are multiple ways of doing this:
 1) Greedily group the cells
 2) Sub-division space into a coarse uniform grid and then decompose it, if required
 
-The second one can actually result in more 'cleaner' looking results. (See images below).
-Since, it preserves the sub-division grid structure somewhat, producing more 'square/rectangle' outputs.
+The second one can actually result in more 'cleaner' looking results.
+Since, it preserves the sub-division grid structure somewhat, producing more 'square/rectangle' outputs. (See images below).
 
 This contains both algorithms:
 - Interactive grid viewer (raylib)
