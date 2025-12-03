@@ -20,7 +20,8 @@ This contains both algorithms:
 - **Tiled decomposition**: split the grid into coarse uniform tiles and decompose per-tile
 
 ## Demo
-TODO.
+1) Greedy combination algorithm:
+   `Images/greedy_4.png`
 
 ## Controls
 
