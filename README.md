@@ -3,7 +3,9 @@
 A tiny 2D grid sandbox for navmesh-ish decomposition experiments.
 
 One of the important things that keeps coming up in game dev multiple times is this: Group cells together for efficieny.
+
 Wait, if we are combining cells, then why is the repo called decomp you ask?
+
 There are multiple ways of doing this:
 1) Greedily group the cells
 2) Sub-division space into a coarse uniform grid and then decompose it, if required
