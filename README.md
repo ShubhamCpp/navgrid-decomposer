@@ -23,6 +23,12 @@ This contains both algorithms:
 1) Greedy combination algorithm:
    ![Greedy rect cover (max=4)](navgrid-decomposer/Images/greedy_4.png)
 
+2) Tiled and decomposition algorithm:
+   ![Tiled decomp cover (max=8)](navgrid-decomposer/Images/tiled_decomp_8.png)
+
+3) Side by side comparison of both algorithms:
+   ![Comparison_greedy (max=8)](navgrid-decomposer/Images/greedy_comparison.png) ![Comparison_tiled (max=8)](navgrid-decomposer/Images/tiled_comparison.png)
+
 ## Controls
 
 - `LMB` : toggle a cell
