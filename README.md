@@ -8,7 +8,7 @@ Wait, if we are combining cells, then why is the repo called decomp you ask?
 
 There are multiple ways of doing this:
 1) Greedily group the cells
-2) Sub-division space into a coarse uniform grid and then decompose it, if required
+2) Sub-division of space into a coarse uniform grid and then decompose it, if required
 
 The second one can actually result in more 'cleaner' looking results.
 Since, it preserves the sub-division grid structure somewhat, producing more 'square/rectangle' outputs. (See images below).
