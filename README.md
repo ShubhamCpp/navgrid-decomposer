@@ -21,16 +21,16 @@ This contains both algorithms:
 
 ## Demo
 1) Greedy combination algorithm:  
-<img src="navgrid-decomposer/Images/greedy_4.png" width="400" />
+<img src="navgrid-decomposer/Images/greedy_4.png" width="800" />
 
 2) Tiled decomposition algorithm:  
-<img src="navgrid-decomposer/Images/tiled_decomp_8.png" width="400" />
+<img src="navgrid-decomposer/Images/tiled_decomp_8.png" width="800" />
 
 3) Side by side comparison of both algorithms:
 
 <p float="left">
-  <img src="navgrid-decomposer/Images/greedy_comparison.png" width="400" />
-  <img src="navgrid-decomposer/Images/tiled_comparison.png" width="400" />
+  <img src="navgrid-decomposer/Images/greedy_comparison.png" width="500" />
+  <img src="navgrid-decomposer/Images/tiled_comparison.png" width="500" />
 </p>
 
 ## Controls
